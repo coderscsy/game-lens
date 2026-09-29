@@ -1,0 +1,56 @@
+PASS initial synthetic sample count
+PASS 12-card pagination
+PASS persistent demo disclosure
+PASS Wilson penalizes tiny perfect sample
+PASS zero-review Wilson is unknown
+PASS zero-review ratio is unknown
+PASS missing price has no default composite score
+PASS missing reviews have no default composite score
+PASS free game score finite
+PASS unknown price last in ascending sort
+PASS unknown price last in descending sort
+PASS ID / URL parsing and deduplication
+PASS reject non-Steam URLs
+PASS CSV formula injection protection
+PASS reject currency / region mismatch
+PASS reject inconsistent imported review counts
+PASS search Chinese name
+PASS filters combine with search
+PASS Chinese value preset constraints
+PASS audio filter separate from text-language support
+PASS table view
+PASS table price sort ascending
+PASS table price sort toggles descending
+PASS favorite action
+PASS favorites view scoped
+PASS select four comparison games
+PASS comparison cap enforced
+PASS four-game comparison table with labels
+PASS comparison preserves source warning
+PASS detail language / audio distinction
+PASS detail scoring explanation
+PASS zero total weights not accepted
+PASS valid weights apply and close
+PASS six analytics panels
+PASS scatter excludes missing-price / review records
+PASS region change never reuses CNY quotes
+PASS non-CNY demo switches to empty region live catalog
+PASS returning to demo explicitly selects its CNY region
+PASS CSV all filtered rows and source labels
+PASS JSON roundtrip structure and provenance
+PASS JSON imports into isolated import catalog
+PASS import never launders demo as real data
+PASS imported title is escaped, no XSS
+PASS imported claimed Steam record becomes unverified import
+PASS standalone network setup explanation
+PASS standalone cannot pretend to fetch locally
+PASS no JavaScript page errors in desktop UI tests
+PASS partial success only stores fetched game
+PASS network task leaves demo library unchanged
+PASS partial failure visible in acquisition log
+PASS adapter requests include same-origin app header
+PASS failed refresh retains previous real-catalog record
+PASS mobile viewport no horizontal overflow
+PASS mobile filters initially collapsed
+
+54 frontend checks passed. Live Steam API was NOT used or verified.

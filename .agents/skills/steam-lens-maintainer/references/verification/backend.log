@@ -1,0 +1,45 @@
+test_cache_preserves_time_and_avoids_second_call (test_server.CacheTests.test_cache_preserves_time_and_avoids_second_call) ... ok
+test_force_refresh (test_server.CacheTests.test_force_refresh) ... ok
+test_partial_failure_keeps_details_but_no_fake_reviews (test_server.CacheTests.test_partial_failure_keeps_details_but_no_fake_reviews) ... ok
+test_stale_fallback_is_labelled_and_keeps_old_timestamp (test_server.CacheTests.test_stale_fallback_is_labelled_and_keeps_old_timestamp) ... ok
+test_app_contract_with_mock_upstream (test_server.HTTPTests.test_app_contract_with_mock_upstream) ... ok
+test_health_is_not_claiming_upstream_verified (test_server.HTTPTests.test_health_is_not_claiming_upstream_verified) ... ok
+test_html_is_served (test_server.HTTPTests.test_html_is_served) ... ok
+test_no_arbitrary_static_files (test_server.HTTPTests.test_no_arbitrary_static_files) ... ok
+test_rejects_cross_origin (test_server.HTTPTests.test_rejects_cross_origin) ... ok
+test_rejects_host_rebinding (test_server.HTTPTests.test_rejects_host_rebinding) ... ok
+test_requires_custom_header (test_server.HTTPTests.test_requires_custom_header) ... ok
+test_currency_mismatch (test_server.NormalizeTests.test_currency_mismatch) ... ok
+test_english_language_parse (test_server.NormalizeTests.test_english_language_parse) ... ok
+test_free_is_explicit (test_server.NormalizeTests.test_free_is_explicit) ... ok
+test_game_features (test_server.NormalizeTests.test_game_features) ... ok
+test_html_is_plain_text (test_server.NormalizeTests.test_html_is_plain_text) ... ok
+test_id_validation (test_server.NormalizeTests.test_id_validation) ... ok
+test_invalid_date_preserved_as_text (test_server.NormalizeTests.test_invalid_date_preserved_as_text) ... ok
+test_invalid_review_counts (test_server.NormalizeTests.test_invalid_review_counts) ... ok
+test_language_audio_are_separate (test_server.NormalizeTests.test_language_audio_are_separate) ... ok
+test_leap_date (test_server.NormalizeTests.test_leap_date) ... ok
+test_missing_language (test_server.NormalizeTests.test_missing_language) ... ok
+test_missing_price_is_not_free (test_server.NormalizeTests.test_missing_price_is_not_free) ... ok
+test_non_game_rejected (test_server.NormalizeTests.test_non_game_rejected) ... ok
+test_price_units (test_server.NormalizeTests.test_price_units) ... ok
+test_region_validation (test_server.NormalizeTests.test_region_validation) ... ok
+test_review_failure_stays_unknown (test_server.NormalizeTests.test_review_failure_stays_unknown) ... ok
+test_search_parser (test_server.NormalizeTests.test_search_parser) ... ok
+test_unknown_features (test_server.NormalizeTests.test_unknown_features) ... ok
+test_upstream_whitelist (test_server.NormalizeTests.test_upstream_whitelist) ... ok
+test_zero_reviews_valid_not_fabricated (test_server.NormalizeTests.test_zero_reviews_valid_not_fabricated) ... ok
+
+----------------------------------------------------------------------
+Ran 31 tests in 0.520s
+
+OK
+[Steam Lens] "GET /api/app?appid=42&cc=cn HTTP/1.1" 200 -
+[Steam Lens] "GET /api/health HTTP/1.1" 200 -
+[Steam Lens] "GET / HTTP/1.1" 200 -
+[Steam Lens] "GET /server.py HTTP/1.1" 404 -
+[Steam Lens] "GET /.steam_lens_cache.sqlite3 HTTP/1.1" 404 -
+[Steam Lens] "GET /../../etc/passwd HTTP/1.1" 404 -
+[Steam Lens] "GET /api/health HTTP/1.1" 403 -
+[Steam Lens] "GET /api/health HTTP/1.1" 403 -
+[Steam Lens] "GET /api/health HTTP/1.1" 403 -

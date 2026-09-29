@@ -1,0 +1,99 @@
+{
+  "generated_at_utc": "2026-09-29T10:04:53.383190+00:00",
+  "project_root": "/mnt/data/steam_lens_skill_work/wrapper-smoke",
+  "python": "3.13.5",
+  "browser_requested": true,
+  "exit_code": 0,
+  "full_offline_regression_passed": true,
+  "live_steam_verified": false,
+  "notes": [
+    "Steam upstream responses and images are mocked by the baseline tests.",
+    "Passing offline tests does not verify real Steam/CDN availability."
+  ],
+  "results": [
+    {
+      "name": "build",
+      "status": "passed",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "build.py"
+      ],
+      "exit_code": 0,
+      "duration_seconds": 0.724,
+      "checks": null,
+      "log": "build.log"
+    },
+    {
+      "name": "python-syntax",
+      "status": "passed",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "-m",
+        "py_compile",
+        "build.py",
+        "server.py",
+        "test_server.py",
+        "test_frontend.py",
+        "test_covers.py"
+      ],
+      "exit_code": 0,
+      "duration_seconds": 0.681,
+      "checks": null,
+      "log": "python-syntax.log"
+    },
+    {
+      "name": "javascript-syntax",
+      "status": "passed",
+      "command": [
+        "/opt/nvm/versions/node/v22.16.0/bin/node",
+        "--check",
+        "app.js"
+      ],
+      "exit_code": 0,
+      "duration_seconds": 0.025,
+      "checks": null,
+      "log": "javascript-syntax.log"
+    },
+    {
+      "name": "backend",
+      "status": "passed",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "-W",
+        "error::ResourceWarning",
+        "-m",
+        "unittest",
+        "-v",
+        "test_server.py"
+      ],
+      "exit_code": 0,
+      "duration_seconds": 1.225,
+      "checks": 31,
+      "log": "backend.log"
+    },
+    {
+      "name": "frontend",
+      "status": "passed",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "test_frontend.py"
+      ],
+      "exit_code": 0,
+      "duration_seconds": 8.041,
+      "checks": 54,
+      "log": "frontend.log"
+    },
+    {
+      "name": "covers",
+      "status": "passed",
+      "command": [
+        "/opt/pyvenv/bin/python",
+        "test_covers.py"
+      ],
+      "exit_code": 0,
+      "duration_seconds": 3.288,
+      "checks": 40,
+      "log": "covers.log"
+    }
+  ]
+}

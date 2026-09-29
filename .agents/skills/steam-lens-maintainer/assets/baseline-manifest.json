@@ -1,0 +1,31 @@
+{
+  "package": "steam-lens-maintainer",
+  "skill_version": "1.0.0",
+  "created_date": "2026-09-29",
+  "baseline_version": "Steam Lens v1.1 cover fix",
+  "archive": "steam-lens-v1.1-baseline.zip",
+  "archive_sha256": "10e83bb302f07981444f925cf167c0f98fec55f15a58251d941398e5c2df03e5",
+  "standalone_html_sha256": "9fdba27351f3e4924b8718c855b9bbed71ee614eb2b5b34c1ac88562dba5473c",
+  "baseline_files": {
+    "CHANGELOG_封面修复.md": "6e1aea54b1552edc0101295558bd08943932518bb82fadea156ba11afc92c2e5",
+    "LICENSE": "e8517309d251d7593a3e14490e754843a727494fa1ce0e128bb30d8d8ee48eb2",
+    "README_中文.md": "b421b7d87bae3d14db56fe4d8567528417ae25cf47a1b681a0cc95d9ca5d57d9",
+    "TEST_REPORT.md": "9d9648b5f58ffb2c8ae29b6b493b0b2287515065ca6a28b73c77e5703dde7876",
+    "app.js": "c5d04a5cbde74fa8f339d5e7b0fc95c5576720bf7726e985ed2cba530cf98cfb",
+    "build.py": "14e8b75480e4571165efd72de276b84aced9d7932d05bbf26d1c8a73e68258f8",
+    "cover-test-results.json": "8cec1fa78553a8700f43822c3980f57ef845f426f2269a2be7c11f0d6b879367",
+    "demo_data.json": "f4b99936f2a596af7ecc5f66d2becaf8aa730e864ab7bcdd7fa7fb5d0d26258e",
+    "frontend-test-results.json": "e7cbda58a4294230f823f53967a118a882cd4a23435d3818be46d3e7e2196832",
+    "server.py": "e4075e9ade93c02c0d6b09696947426f37f0b332049797e3372cf214017e48f0",
+    "start_linux.sh": "5c34b98f269734dfc60d4773e7d7c41aa13de872368b532d33845718541654ec",
+    "start_mac.command": "5c34b98f269734dfc60d4773e7d7c41aa13de872368b532d33845718541654ec",
+    "start_windows.bat": "b0e1fa30292c9acdfb5b11df753affa4a311452b99bf326b02550f52f9a3f7d7",
+    "steam_lens.html": "9fdba27351f3e4924b8718c855b9bbed71ee614eb2b5b34c1ac88562dba5473c",
+    "test_covers.py": "9a2aec10129be9c5b9548c6db16d73c8875e4c3d9215ce35dde028cfb52bd668",
+    "test_frontend.py": "8caa44e5c920b0cc8233e8461c4618954685bd8c45711b15a4160e5bb56125b1",
+    "test_server.py": "0f4922473691dc3e374f06a9169e9243509c7c30c14bc98e4e7fc8ef75a6d159",
+    "ui.template.html": "ef6ce6c5ea19e1eaede17ce04446d44ca52807c89278ffff0e87e52ccef8dc3b"
+  },
+  "business_source_modified_for_handoff": false,
+  "live_steam_verified": false
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Steam Lens 维护与优化"
+  short_description: "接手 Steam Lens 源码，优化封面、筛选推荐与数据采集并验证回归"
+  default_prompt: "使用 $steam-lens-maintainer 接手当前 Steam Lens 项目。先读源码与交接说明，运行可用基线测试，优先核验游戏封面链路并最小修复已复现缺陷；保留原有功能，构建可用 HTML，准确报告测试和未验证事项。"
+policy:
+  allow_implicit_invocation: true

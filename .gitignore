@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.conda/
+.steam_lens_cache.sqlite3*
+.codex-checks/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+/preview-*.png
+/frontend-test-results.json
+/cover-test-results.json

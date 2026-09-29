@@ -1,0 +1,2963 @@
+{
+  "schemaVersion": 1,
+  "kind": "steam-lens-export",
+  "mode": "demo",
+  "region": "cn",
+  "currency": "CNY",
+  "games": [
+    {
+      "appid": 413150,
+      "name": "星露谷物语",
+      "aliases": [
+        "Stardew Valley"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 48.0,
+      "originalPrice": 48,
+      "discount": 0,
+      "isFree": false,
+      "genres": [
+        "模拟",
+        "角色扮演",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese",
+        "tchinese",
+        "japanese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 96746,
+        "positive": 94811,
+        "negative": 1935,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": 80,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": true,
+      "controller": null,
+      "cloud": false,
+      "achievements": 20,
+      "releaseDate": "2013-01-01",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 星露谷物语 记录用于展示价格、模拟分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/capsule_231x87.jpg?t=1786554168",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/capsule_184x69.jpg?t=1786554168"
+    },
+    {
+      "appid": 105600,
+      "name": "泰拉瑞亚",
+      "aliases": [
+        "Terraria"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 18.0,
+      "originalPrice": 36,
+      "discount": 50,
+      "isFree": false,
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 73950,
+        "positive": 71732,
+        "negative": 2218,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 23,
+      "releaseDate": "2014-02-02",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 泰拉瑞亚 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/capsule_231x87.jpg?t=1769844435",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/capsule_184x69.jpg?t=1769844435"
+    },
+    {
+      "appid": 1145360,
+      "name": "哈迪斯",
+      "aliases": [
+        "Hades"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 40.0,
+      "originalPrice": 80,
+      "discount": 50,
+      "isFree": false,
+      "genres": [
+        "动作",
+        "角色扮演",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 69164,
+        "positive": 67781,
+        "negative": 1383,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 26,
+      "releaseDate": "2015-03-03",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 哈迪斯 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/capsule_231x87_schinese.jpg?t=1758127023",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/capsule_184x69_schinese.jpg?t=1758127023"
+    },
+    {
+      "appid": 367520,
+      "name": "空洞骑士",
+      "aliases": [
+        "Hollow Knight"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 24.0,
+      "originalPrice": 48,
+      "discount": 50,
+      "isFree": false,
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese",
+        "tchinese",
+        "japanese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 195886,
+        "positive": 190009,
+        "negative": 5877,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": 83,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 29,
+      "releaseDate": "2016-04-04",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 空洞骑士 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/fba7289f4c7e90ae9c0caa87e4225f3f9111d7dd/capsule_231x87.jpg?t=1776125684",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/fba7289f4c7e90ae9c0caa87e4225f3f9111d7dd/capsule_184x69.jpg?t=1776125684"
+    },
+    {
+      "appid": 588650,
+      "name": "死亡细胞",
+      "aliases": [
+        "Dead Cells"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 40.0,
+      "originalPrice": 80,
+      "discount": 50,
+      "isFree": false,
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 42690,
+        "positive": 40982,
+        "negative": 1708,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 32,
+      "releaseDate": "2017-05-05",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 死亡细胞 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg?t=1779086887",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/capsule_231x87.jpg?t=1779086887",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/capsule_184x69.jpg?t=1779086887"
+    },
+    {
+      "appid": 646570,
+      "name": "杀戮尖塔",
+      "aliases": [
+        "Slay the Spire"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 25.0,
+      "originalPrice": 100,
+      "discount": 75,
+      "isFree": false,
+      "genres": [
+        "策略",
+        "角色扮演",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 95467,
+        "positive": 92603,
+        "negative": 2864,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": null,
+      "cloud": true,
+      "achievements": 35,
+      "releaseDate": "2018-06-06",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 杀戮尖塔 记录用于展示价格、策略分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg?t=1774015376",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/capsule_231x87.jpg?t=1774015376",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/capsule_184x69.jpg?t=1774015376"
+    },
+    {
+      "appid": 427520,
+      "name": "异星工厂",
+      "aliases": [
+        "Factorio"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 100.0,
+      "originalPrice": 100,
+      "discount": 0,
+      "isFree": false,
+      "genres": [
+        "策略",
+        "模拟",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese",
+        "tchinese",
+        "japanese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 36189,
+        "positive": 35103,
+        "negative": 1086,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": 86,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": true,
+      "controller": "full",
+      "cloud": false,
+      "achievements": 38,
+      "releaseDate": "2019-07-07",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 异星工厂 记录用于展示价格、策略分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ab9a2df0a77caebde20dc45adc021de8cdcf7cc5/header.jpg?t=1787348817",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/2dca545120676172d4b6db984d210a7fdc387a1e/capsule_231x87.jpg?t=1787348817",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/2dca545120676172d4b6db984d210a7fdc387a1e/capsule_184x69.jpg?t=1787348817"
+    },
+    {
+      "appid": 975370,
+      "name": "矮人要塞",
+      "aliases": [
+        "Dwarf Fortress"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 97.6,
+      "originalPrice": 122,
+      "discount": 20,
+      "isFree": false,
+      "genres": [
+        "策略",
+        "模拟",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 4146,
+        "positive": 3939,
+        "negative": 207,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 41,
+      "releaseDate": "2020-08-08",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 矮人要塞 记录用于展示价格、策略分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/975370/34e18f5695fffd64458b78110930abc5258ccd14/header.jpg?t=1788524920",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/975370/850c2065e11af335a579e58febcda189ea13b489/capsule_231x87.jpg?t=1788524920",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/975370/850c2065e11af335a579e58febcda189ea13b489/capsule_184x69.jpg?t=1788524920"
+    },
+    {
+      "appid": 1366540,
+      "name": "戴森球计划",
+      "aliases": [
+        "Dyson Sphere Program"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 49.0,
+      "originalPrice": 70,
+      "discount": 30,
+      "isFree": false,
+      "genres": [
+        "策略",
+        "模拟",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 32243,
+        "positive": 30953,
+        "negative": 1290,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 44,
+      "releaseDate": "2021-09-09",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": true,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 戴森球计划 记录用于展示价格、策略分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366540/header_schinese.jpg?t=1776523171",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366540/9d26153a55162690721c8b89059a2751bfd51111/capsule_231x87_schinese.jpg?t=1776523171",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366540/9d26153a55162690721c8b89059a2751bfd51111/capsule_184x69_schinese.jpg?t=1776523171"
+    },
+    {
+      "appid": 294100,
+      "name": "环世界",
+      "aliases": [
+        "RimWorld"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 80.0,
+      "originalPrice": 100,
+      "discount": 20,
+      "isFree": false,
+      "genres": [
+        "策略",
+        "模拟",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese",
+        "tchinese",
+        "japanese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 120018,
+        "positive": 116417,
+        "negative": 3601,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": 89,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 47,
+      "releaseDate": "2022-10-10",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 环世界 记录用于展示价格、策略分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/0bd1adfad18e931b14529ce177fbdea0f5072760/header_schinese.jpg?t=1782756789",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/602d0794b04a448ef5b1fd9e44648e1383e2af9e/capsule_231x87_schinese.jpg?t=1782756789",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/602d0794b04a448ef5b1fd9e44648e1383e2af9e/capsule_184x69_schinese.jpg?t=1782756789"
+    },
+    {
+      "appid": 784150,
+      "name": "工人与资源：苏维埃共和国",
+      "aliases": [
+        "Workers & Resources"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 84.0,
+      "originalPrice": 120,
+      "discount": 30,
+      "isFree": false,
+      "genres": [
+        "策略",
+        "模拟"
+      ],
+      "tags": [],
+      "languages": [
+        "english"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 6138,
+        "positive": 5524,
+        "negative": 614,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": null,
+      "cloud": true,
+      "achievements": 50,
+      "releaseDate": "2023-11-11",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 工人与资源：苏维埃共和国 记录用于展示价格、策略分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784150/header_schinese.jpg?t=1789670215",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784150/capsule_231x87_schinese.jpg?t=1789670215",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784150/capsule_184x69_schinese.jpg?t=1789670215"
+    },
+    {
+      "appid": 526870,
+      "name": "幸福工厂",
+      "aliases": [
+        "Satisfactory"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 80.0,
+      "originalPrice": 160,
+      "discount": 50,
+      "isFree": false,
+      "genres": [
+        "模拟",
+        "冒险",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 152267,
+        "positive": 146176,
+        "negative": 6091,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 53,
+      "releaseDate": "2024-12-12",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 幸福工厂 记录用于展示价格、模拟分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1788349095",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/fe7cbb345c177f83f829a61f0e0ab951b42c7ab1/capsule_231x87.jpg?t=1788349095",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/fe7cbb345c177f83f829a61f0e0ab951b42c7ab1/capsule_184x69.jpg?t=1788349095"
+    },
+    {
+      "appid": 1245620,
+      "name": "艾尔登法环",
+      "aliases": [
+        "Elden Ring"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 180.0,
+      "originalPrice": 300,
+      "discount": 40,
+      "isFree": false,
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese",
+        "tchinese",
+        "japanese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 129549,
+        "positive": 119185,
+        "negative": 10364,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": 92,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": true,
+      "controller": "full",
+      "cloud": false,
+      "achievements": 56,
+      "releaseDate": "2013-01-13",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 艾尔登法环 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/35a2032af8ba7424bdfcc07f715bef65b5fe18ed/header_alt_assets_3_schinese.jpg?t=1790290043",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/eaab65be157dcfaf4dbf1c21666317479ac41b64/capsule_231x87_alt_assets_3_schinese.jpg?t=1790290043",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/eaab65be157dcfaf4dbf1c21666317479ac41b64/capsule_184x69_alt_assets_3_schinese.jpg?t=1790290043"
+    },
+    {
+      "appid": 1086940,
+      "name": "博德之门 3",
+      "aliases": [
+        "Baldur’s Gate 3"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 238.4,
+      "originalPrice": 298,
+      "discount": 20,
+      "isFree": false,
+      "genres": [
+        "角色扮演",
+        "策略",
+        "冒险"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 174974,
+        "positive": 167975,
+        "negative": 6999,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 59,
+      "releaseDate": "2014-02-14",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 博德之门 3 记录用于展示价格、角色扮演分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/3dd81008e9c385caf68152450c22353f6a8abec9/capsule_231x87.jpg?t=1777363040",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/3dd81008e9c385caf68152450c22353f6a8abec9/capsule_184x69.jpg?t=1777363040"
+    },
+    {
+      "appid": 1091500,
+      "name": "赛博朋克 2077",
+      "aliases": [
+        "Cyberpunk 2077"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 149.0,
+      "originalPrice": 298,
+      "discount": 50,
+      "isFree": false,
+      "genres": [
+        "角色扮演",
+        "动作"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english",
+        "schinese"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 150918,
+        "positive": 134317,
+        "negative": 16601,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 62,
+      "releaseDate": "2015-03-15",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 赛博朋克 2077 记录用于展示价格、角色扮演分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/4e88035f3a75e69e0ef2005fc611a7fafcb227e1/header_schinese.jpg?t=1784714077",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/47c51dbc7cbec037001f1a23e1289d475be8fd5e/capsule_231x87_schinese.jpg?t=1784714077",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/47c51dbc7cbec037001f1a23e1289d475be8fd5e/capsule_184x69_schinese.jpg?t=1784714077"
+    },
+    {
+      "appid": 292030,
+      "name": "巫师 3：狂猎",
+      "aliases": [
+        "The Witcher 3"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 38.0,
+      "originalPrice": 190,
+      "discount": 80,
+      "isFree": false,
+      "genres": [
+        "角色扮演",
+        "冒险"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese",
+        "tchinese",
+        "japanese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 48401,
+        "positive": 45981,
+        "negative": 2420,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": 95,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": null,
+      "cloud": true,
+      "achievements": 65,
+      "releaseDate": "2016-04-16",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 巫师 3：狂猎 记录用于展示价格、角色扮演分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/595b56d6f2e468777cf038121983f6409291157d/header_schinese.jpg?t=1790675981",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/b51c7ae40dfd95c9af348b0f488df9519ad9b6fe/capsule_231x87_schinese.jpg?t=1790675981",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/b51c7ae40dfd95c9af348b0f488df9519ad9b6fe/capsule_184x69_schinese.jpg?t=1790675981"
+    },
+    {
+      "appid": 1174180,
+      "name": "荒野大镖客：救赎 2",
+      "aliases": [
+        "Red Dead Redemption 2"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 83.7,
+      "originalPrice": 279,
+      "discount": 70,
+      "isFree": false,
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 30975,
+        "positive": 28497,
+        "negative": 2478,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 68,
+      "releaseDate": "2017-05-17",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 荒野大镖客：救赎 2 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg?t=1759502961",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_184x69.jpg?t=1759502961"
+    },
+    {
+      "appid": 2358720,
+      "name": "黑神话：悟空",
+      "aliases": [
+        "Black Myth: Wukong"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 268.0,
+      "originalPrice": 268,
+      "discount": 0,
+      "isFree": false,
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english",
+        "schinese"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 194396,
+        "positive": 184676,
+        "negative": 9720,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 71,
+      "releaseDate": "2018-06-18",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 黑神话：悟空 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header_schinese.jpg?t=1760601605",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/801e841a7975fc29967e30cf799084f4b2987b77/capsule_231x87_schinese.jpg?t=1760601605",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/801e841a7975fc29967e30cf799084f4b2987b77/capsule_184x69_schinese.jpg?t=1760601605"
+    },
+    {
+      "appid": 1426210,
+      "name": "双人成行",
+      "aliases": [
+        "It Takes Two"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 79.2,
+      "originalPrice": 198,
+      "discount": 60,
+      "isFree": false,
+      "genres": [
+        "冒险",
+        "动作"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese",
+        "tchinese",
+        "japanese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 4939,
+        "positive": 4692,
+        "negative": 247,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": 82,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": false,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": true,
+      "controller": "full",
+      "cloud": false,
+      "achievements": 74,
+      "releaseDate": "2019-07-19",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 双人成行 记录用于展示价格、冒险分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_schinese.jpg?t=1777395376",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_231x87.jpg?t=1777395376",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_184x69.jpg?t=1777395376"
+    },
+    {
+      "appid": 632360,
+      "name": "雨中冒险 2",
+      "aliases": [
+        "Risk of Rain 2"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 40.0,
+      "originalPrice": 80,
+      "discount": 50,
+      "isFree": false,
+      "genres": [
+        "动作",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 199561,
+        "positive": 181601,
+        "negative": 17960,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 77,
+      "releaseDate": "2020-08-20",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 雨中冒险 2 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header_schinese.jpg?t=1783621122",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87_schinese.jpg?t=1783621122",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/capsule_184x69_schinese.jpg?t=1783621122"
+    },
+    {
+      "appid": 548430,
+      "name": "深岩银河",
+      "aliases": [
+        "Deep Rock Galactic"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 45.0,
+      "originalPrice": 90,
+      "discount": 50,
+      "isFree": false,
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 155800,
+        "positive": 151126,
+        "negative": 4674,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": false,
+      "controller": null,
+      "cloud": true,
+      "achievements": 80,
+      "releaseDate": "2021-09-21",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 深岩银河 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/fcf2ee4386b363827f36c120beffbe6439dc1d3a/header_alt_assets_28_schinese.jpg?t=1790248272",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/capsule_231x87_schinese.jpg?t=1790248272",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/capsule_184x69_schinese.jpg?t=1790248272"
+    },
+    {
+      "appid": 322330,
+      "name": "饥荒联机版",
+      "aliases": [
+        "Don’t Starve Together"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 12.0,
+      "originalPrice": 48,
+      "discount": 75,
+      "isFree": false,
+      "genres": [
+        "冒险",
+        "模拟",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese",
+        "tchinese",
+        "japanese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 196895,
+        "positive": 187050,
+        "negative": 9845,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": 85,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": true,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 83,
+      "releaseDate": "2022-10-22",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 饥荒联机版 记录用于展示价格、冒险分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/3c25c3f7c3b73bdcca62ca9a2479cd0b5b0fac2b/header_schinese.jpg?t=1790287771",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/2ee35cc972015318e5c75bd06bbb8a8a1c2f79f7/capsule_231x87_schinese.jpg?t=1790287771",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/2ee35cc972015318e5c75bd06bbb8a8a1c2f79f7/capsule_184x69_schinese.jpg?t=1790287771"
+    },
+    {
+      "appid": 381210,
+      "name": "黎明杀机",
+      "aliases": [
+        "Dead by Daylight"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 32.8,
+      "originalPrice": 82,
+      "discount": 60,
+      "isFree": false,
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 92289,
+        "positive": 76600,
+        "negative": 15689,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": false,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 86,
+      "releaseDate": "2023-11-23",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 黎明杀机 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1787769494",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/capsule_231x87.jpg?t=1787769494",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/capsule_184x69.jpg?t=1787769494"
+    },
+    {
+      "appid": 730,
+      "name": "Counter-Strike 2",
+      "aliases": [
+        "Counter-Strike 2"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 0.0,
+      "originalPrice": 0,
+      "discount": 0,
+      "isFree": true,
+      "genres": [
+        "动作",
+        "免费开玩"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 79592,
+        "positive": 67653,
+        "negative": 11939,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": false,
+      "coop": false,
+      "multiplayer": true,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 89,
+      "releaseDate": "2024-12-24",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 Counter-Strike 2 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header_schinese.jpg?t=1789251637",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/capsule_231x87_schinese.jpg?t=1789251637",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/capsule_184x69_schinese.jpg?t=1789251637"
+    },
+    {
+      "appid": 570,
+      "name": "Dota 2",
+      "aliases": [
+        "Dota 2"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 0.0,
+      "originalPrice": 0,
+      "discount": 0,
+      "isFree": true,
+      "genres": [
+        "策略",
+        "动作",
+        "免费开玩"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese",
+        "tchinese",
+        "japanese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 206102,
+        "positive": 169004,
+        "negative": 37098,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": 88,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "singleplayer": false,
+      "coop": false,
+      "multiplayer": true,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": false,
+      "achievements": 92,
+      "releaseDate": "2013-01-25",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 Dota 2 记录用于展示价格、策略分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1769535998",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_231x87.jpg?t=1769535998",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_184x69.jpg?t=1769535998"
+    },
+    {
+      "appid": 108600,
+      "name": "僵尸毁灭工程",
+      "aliases": [
+        "Project Zomboid"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 45.5,
+      "originalPrice": 65,
+      "discount": 30,
+      "isFree": false,
+      "genres": [
+        "角色扮演",
+        "模拟",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 64591,
+        "positive": 60716,
+        "negative": 3875,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": false,
+      "controller": null,
+      "cloud": true,
+      "achievements": 95,
+      "releaseDate": "2014-02-01",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": true,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 僵尸毁灭工程 记录用于展示价格、角色扮演分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/capsule_231x87.jpg?t=1787740093",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/capsule_184x69.jpg?t=1787740093"
+    },
+    {
+      "appid": 594650,
+      "name": "猎杀：对决",
+      "aliases": [
+        "Hunt: Showdown"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 49.5,
+      "originalPrice": 198,
+      "discount": 75,
+      "isFree": false,
+      "genres": [
+        "动作"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 90110,
+        "positive": 73890,
+        "negative": 16220,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 98,
+      "releaseDate": "2015-03-02",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 猎杀：对决 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/2e2def207be0fd8aa77e1ef10f597aa28b482949/header_alt_assets_28.jpg?t=1789157485",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/dc01593b29fac8fbb6b7413b8cce2e8d68e065f9/capsule_231x87_alt_assets_28.jpg?t=1789157485",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/dc01593b29fac8fbb6b7413b8cce2e8d68e065f9/capsule_184x69_alt_assets_28.jpg?t=1789157485"
+    },
+    {
+      "appid": 1248130,
+      "name": "模拟农场 22",
+      "aliases": [
+        "Farming Simulator 22"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 65.0,
+      "originalPrice": 130,
+      "discount": 50,
+      "isFree": false,
+      "genres": [
+        "模拟"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese",
+        "tchinese",
+        "japanese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 1403,
+        "positive": 1235,
+        "negative": 168,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": 91,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": true,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 101,
+      "releaseDate": "2016-04-03",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 模拟农场 22 记录用于展示价格、模拟分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/7ff56320788fa4b1f46ac9a62ff955d3ef3f109c/header.jpg?t=1786456269",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/b742b6f07152d9ab56dcaa332ca69d59d3151513/capsule_231x87.jpg?t=1786456269",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/b742b6f07152d9ab56dcaa332ca69d59d3151513/capsule_184x69.jpg?t=1786456269"
+    },
+    {
+      "appid": 1817190,
+      "name": "漫威蜘蛛侠：迈尔斯·莫拉莱斯",
+      "aliases": [
+        "Spider-Man: Miles Morales"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 99.5,
+      "originalPrice": 199,
+      "discount": 50,
+      "isFree": false,
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english",
+        "schinese"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 81524,
+        "positive": 75817,
+        "negative": 5707,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 104,
+      "releaseDate": "2017-05-04",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 漫威蜘蛛侠：迈尔斯·莫拉莱斯 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg?t=1787838710",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/capsule_231x87.jpg?t=1787838710",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/capsule_184x69.jpg?t=1787838710"
+    },
+    {
+      "appid": 620,
+      "name": "传送门 2",
+      "aliases": [
+        "Portal 2"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 10.0,
+      "originalPrice": 50,
+      "discount": 80,
+      "isFree": false,
+      "genres": [
+        "冒险",
+        "动作"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 149428,
+        "positive": 146439,
+        "negative": 2989,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 107,
+      "releaseDate": "2018-06-05",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 传送门 2 记录用于展示价格、冒险分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/faffc0f560786e2f05104a8d2fac837c6969bf13/header.jpg?t=1790187113",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/bd23943dcd0280aa2cdc066e2f86d2185cfd4cce/capsule_231x87.jpg?t=1790187113",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/bd23943dcd0280aa2cdc066e2f86d2185cfd4cce/capsule_184x69.jpg?t=1790187113"
+    },
+    {
+      "appid": 250900,
+      "name": "以撒的结合：重生",
+      "aliases": [
+        "The Binding of Isaac"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 31.2,
+      "originalPrice": 48,
+      "discount": 35,
+      "isFree": false,
+      "genres": [
+        "动作",
+        "角色扮演",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese",
+        "tchinese",
+        "japanese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 206306,
+        "positive": 200117,
+        "negative": 6189,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": 94,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": null,
+      "cloud": false,
+      "achievements": 110,
+      "releaseDate": "2019-07-06",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 以撒的结合：重生 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/capsule_231x87.jpg?t=1731977365",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/capsule_184x69.jpg?t=1731977365"
+    },
+    {
+      "appid": 1942280,
+      "name": "土豆兄弟",
+      "aliases": [
+        "Brotato"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 12.0,
+      "originalPrice": 20,
+      "discount": 40,
+      "isFree": false,
+      "genres": [
+        "动作",
+        "休闲",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 156193,
+        "positive": 149945,
+        "negative": 6248,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 113,
+      "releaseDate": "2020-08-07",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 土豆兄弟 记录用于展示价格、动作分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942280/4f3467b7993c5c86a0bf789a646b800a808347d2/header_schinese.jpg?t=1789029155",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942280/d127a9496ac5d9f07b0e2ad90bc886b8a7ba68b4/capsule_231x87_schinese.jpg?t=1789029155",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942280/d127a9496ac5d9f07b0e2ad90bc886b8a7ba68b4/capsule_184x69_schinese.jpg?t=1789029155"
+    },
+    {
+      "appid": 1966720,
+      "name": "致命公司",
+      "aliases": [
+        "Lethal Company"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 58.0,
+      "originalPrice": 58,
+      "discount": 0,
+      "isFree": false,
+      "genres": [
+        "冒险",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 3925,
+        "positive": 3729,
+        "negative": 196,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": false,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 116,
+      "releaseDate": "2021-09-08",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": true,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 致命公司 记录用于展示价格、冒险分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/capsule_231x87.jpg?t=1775380053",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/capsule_184x69.jpg?t=1775380053"
+    },
+    {
+      "appid": 648800,
+      "name": "木筏求生",
+      "aliases": [
+        "Raft"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 34.0,
+      "originalPrice": 68,
+      "discount": 50,
+      "isFree": false,
+      "genres": [
+        "冒险",
+        "模拟",
+        "独立"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese",
+        "tchinese",
+        "japanese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 168160,
+        "positive": 156389,
+        "negative": 11771,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": 81,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": true,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 119,
+      "releaseDate": "2022-10-09",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 木筏求生 记录用于展示价格、冒险分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/capsule_231x87.jpg?t=1727184011",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/capsule_184x69.jpg?t=1727184011"
+    },
+    {
+      "appid": 588430,
+      "name": "辐射：避难所",
+      "aliases": [
+        "Fallout Shelter"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": 0.0,
+      "originalPrice": 0,
+      "discount": 0,
+      "isFree": true,
+      "genres": [
+        "模拟",
+        "免费开玩"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": null,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": false,
+      "multiplayer": false,
+      "onlineCoop": false,
+      "localCoop": false,
+      "controller": "full",
+      "cloud": true,
+      "achievements": 122,
+      "releaseDate": "2023-11-10",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 辐射：避难所 记录用于展示价格、模拟分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [
+        "演示“评论缺失”场景：不应生成 0% 或虚构好评率。"
+      ],
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/74019314eb5e4840a28f1fb420386c46790b1ffb/header_alt_assets_54.jpg?t=1789997122",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/e1709101efc86fe2628d4cb9d1bbeb4befcf87d9/capsule_231x87_alt_assets_54.jpg?t=1789997122",
+      "capsuleImageV5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/e1709101efc86fe2628d4cb9d1bbeb4befcf87d9/capsule_184x69_alt_assets_54.jpg?t=1789997122"
+    },
+    {
+      "appid": 252950,
+      "name": "火箭联盟",
+      "aliases": [
+        "Rocket League"
+      ],
+      "region": "cn",
+      "currency": "CNY",
+      "price": null,
+      "originalPrice": null,
+      "discount": null,
+      "isFree": false,
+      "genres": [
+        "竞速",
+        "体育",
+        "动作"
+      ],
+      "tags": [],
+      "languages": [
+        "english",
+        "schinese"
+      ],
+      "audioLanguages": [
+        "english"
+      ],
+      "languageText": "",
+      "reviews": {
+        "total": 177574,
+        "positive": 161592,
+        "negative": 15982,
+        "description": "模拟评论汇总",
+        "scope": "demo_simulated"
+      },
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "singleplayer": true,
+      "coop": true,
+      "multiplayer": true,
+      "onlineCoop": true,
+      "localCoop": false,
+      "controller": null,
+      "cloud": true,
+      "achievements": 125,
+      "releaseDate": "2024-12-11",
+      "releaseText": "演示发行日期",
+      "comingSoon": false,
+      "earlyAccess": false,
+      "developers": [
+        "演示开发商"
+      ],
+      "publishers": [
+        "演示发行商"
+      ],
+      "description": "这条 火箭联盟 记录用于展示价格、竞速分类、语言与评分的联合筛选。所有示例属性为模拟值；请联网获取真实商店资料后再决定是否购买。",
+      "requiredAge": null,
+      "dlcCount": null,
+      "requirements": {
+        "windows": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "mac": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        },
+        "linux": {
+          "minimum": "演示说明：真实硬件要求尚未获取，请到 Steam 商店核实。",
+          "recommended": ""
+        }
+      },
+      "source": "demo",
+      "detailsAt": null,
+      "reviewsAt": null,
+      "warnings": [
+        "演示“价格缺失”场景：不应当作免费或混用其他地区价格。"
+      ]
+    }
+  ],
+  "favorites": []
+}

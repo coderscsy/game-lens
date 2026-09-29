@@ -1,0 +1,42 @@
+PASS backend preserves header path/hash/query
+PASS backend preserves alternate capsule metadata
+PASS backend rejects another game AppID
+PASS backend rejects non-Steam hosts
+PASS backend upgrades allowed legacy HTTP asset to HTTPS
+PASS backend rejects script URL
+PASS backend rejects credentials in URL
+PASS covers-off setting sends no initial image request
+PASS frontend preserves raw API header_image
+PASS frontend round-trip keeps normalized headerImage
+PASS exact official path is first candidate
+PASS frontend rejects image for wrong game
+PASS frontend rejects lookalike CDN suffix
+PASS frontend rejects executable imported image schemes
+PASS 404 automatically falls back to alternate CDN with same hash path
+PASS working fallback is the actual displayed image
+PASS successful image fully decoded before placement
+PASS placeholder text removed behind successful image
+PASS image never stretches or crops its logo
+PASS card image container keeps header aspect ratio
+PASS rerender reuses working source without retrying known failing first URL
+PASS detail cover no longer forced into short cropped banner
+PASS all-source failure is bounded, with no infinite retry
+PASS failure shows actionable per-game retry button
+PASS all-failed state does not expose a broken src
+PASS short failure cache suppresses repeated automatic retry storm
+PASS manual retry bypasses failure cooldown and recovers
+PASS retry click does not also open game detail dialog
+PASS retry preserves existing catalog and favorites
+PASS tiny error pixel rejected; next source loads
+PASS hanging primary source test started
+PASS timeout advances to backup without waiting indefinitely
+PASS late timed-out request cannot overwrite chosen image
+PASS rapid game change cannot receive prior game image
+PASS detached card does not continue trying alternative URLs
+PASS total timeout budget ends with retryable placeholder
+PASS mobile image layout does not cause horizontal overflow
+PASS small phone uses one readable card column
+PASS mobile cover also keeps whole artwork
+PASS no uncaught JavaScript errors across cover scenarios
+
+40 cover checks passed; live Steam images were NOT verified.

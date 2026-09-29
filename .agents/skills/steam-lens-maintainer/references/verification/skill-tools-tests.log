@@ -1,0 +1,17 @@
+test_destination_inside_skill_is_refused (__main__.BootstrapTests.test_destination_inside_skill_is_refused) ... ok
+test_empty_existing_directory_is_refused (__main__.BootstrapTests.test_empty_existing_directory_is_refused) ... ok
+test_existing_directory_is_never_overwritten (__main__.BootstrapTests.test_existing_directory_is_never_overwritten) ... ok
+test_fresh_restore_installs_skill_and_keeps_sources (__main__.BootstrapTests.test_fresh_restore_installs_skill_and_keeps_sources) ... ok
+test_path_traversal_rejected_even_with_matching_zip_hash (__main__.BootstrapTests.test_path_traversal_rejected_even_with_matching_zip_hash) ... ok
+test_real_payload_matches_every_hash (__main__.BootstrapTests.test_real_payload_matches_every_hash) ... ok
+test_tampered_archive_rejected_before_restore (__main__.BootstrapTests.test_tampered_archive_rejected_before_restore) ... ok
+test_build_failure_prevents_stale_html_browser_tests (__main__.RunnerTests.test_build_failure_prevents_stale_html_browser_tests) ... ok
+test_full_run_records_actual_counts_not_baseline_constants (__main__.RunnerTests.test_full_run_records_actual_counts_not_baseline_constants) ... ok
+test_missing_node_is_unavailable_not_passed (__main__.RunnerTests.test_missing_node_is_unavailable_not_passed) ... ok
+test_missing_playwright_is_unavailable_not_passed (__main__.RunnerTests.test_missing_playwright_is_unavailable_not_passed) ... ok
+test_optional_browser_skip_is_not_full_pass (__main__.RunnerTests.test_optional_browser_skip_is_not_full_pass) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.028s
+
+OK
